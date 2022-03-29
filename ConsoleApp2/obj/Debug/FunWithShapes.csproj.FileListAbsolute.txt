@@ -1,0 +1,15 @@
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\obj\Debug\FunWithShapes.csprojAssemblyReference.cache
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\obj\Debug\FunWithShapes.csproj.CoreCompileInputs.cache
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\obj\Debug\FunWithShapes.csproj.CoreCompileInputs.cache
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\obj\Debug\FunWithShapes.csproj.AssemblyReference.cache
+C:\Users\Kylan McLin\OneDrive\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Module5_6\ConsoleApp2\obj\Debug\FunWithShapes.csproj.SuggestedBindingRedirects.cache
